@@ -1,0 +1,9 @@
+[build]
+  base = "lectureai"
+  publish = "dist/public"
+  command = "npm install -g pnpm && pnpm install && pnpm build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
