@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789128495961,
+      "tag": "0000_goofy_cassandra_nova",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789128856006,
+      "tag": "0001_cooing_rogue",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789128902799,
+      "tag": "0002_pale_the_hood",
+      "breakpoints": true
+    }
+  ]
+}
